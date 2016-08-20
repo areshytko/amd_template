@@ -5,4 +5,5 @@ jquery library is added as an example
 ### To start working with it:
 
 * npm install
-* modify index.js file to add new modules and components
+* change baseUrl property inside index.js according to your web server configuration
+* add add new modules and components registering them in index.js file
